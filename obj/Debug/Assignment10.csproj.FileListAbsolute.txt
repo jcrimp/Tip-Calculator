@@ -1,0 +1,27 @@
+\\psf\Home\Desktop\HelloForm\Assignment10\bin\Debug\Assignment10.exe.config
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\bin\Debug\Assignment10.exe.config
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\bin\Debug\Assignment10.exe
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\bin\Debug\Assignment10.pdb
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10.csprojResolveAssemblyReference.cache
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\MainWindow.baml
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\MainWindow.g.cs
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\App.g.cs
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10_MarkupCompile.cache
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10.g.resources
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10.Properties.Resources.resources
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10.csproj.GenerateResource.Cache
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10.exe
+C:\Users\jcrimp\Desktop\HelloForm\Assignment10\obj\Debug\Assignment10.pdb
+\\psf\USB2\itc 110\HelloForm\Assignment10\bin\Debug\Assignment10.exe.config
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10.exe
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10.pdb
+\\psf\USB2\itc 110\HelloForm\Assignment10\bin\Debug\Assignment10.exe
+\\psf\USB2\itc 110\HelloForm\Assignment10\bin\Debug\Assignment10.pdb
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10.csprojResolveAssemblyReference.cache
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\MainWindow.baml
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\MainWindow.g.cs
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\App.g.cs
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10_MarkupCompile.cache
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10.g.resources
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10.Properties.Resources.resources
+\\psf\USB2\itc 110\HelloForm\Assignment10\obj\Debug\Assignment10.csproj.GenerateResource.Cache
